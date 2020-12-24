@@ -11,7 +11,11 @@ To setup the environment
 
 #clone the repo: git clone https://github.com/jamesajeeth/Cifar10-Image-Classification-and-Deployment/
 
-#save the saved_weights: Download the saved_file from the drive link and paste it in src/saved_weights cd Cifar10-Image-Classification-and-Deployment pip install -r requirements.txt # install the requirements
+#save the saved_weights: Download the saved_weight file from the drive link and paste it in src/saved_weights 
+
+#install the requirements: 
+cd Cifar10-Image-Classification-and-Deployment 
+pip install -r requirements.txt 
 
 For Training
 This cifar10 model can be trained in GoogleNet, DenseNet, Resnet50. open the file train_note.py and select any one then train the model by executing the below commad line....
