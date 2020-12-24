@@ -1,0 +1,45 @@
+Saving the current best model. Previous best loss = inf Current best loss = 1.218029885673523
+[ Epochs 0 | 30 ] :  train Loss: 1.5527 Acc: 0.4358 val Loss: 1.2180 Acc: 0.5515
+[ Epochs 1 | 30 ] :  train Loss: 1.0736 Acc: 0.6167 val Loss: 2.1295 Acc: 0.4783
+Saving the current best model. Previous best loss = 1.218029885673523 Current best loss = 0.8694440551757813
+[ Epochs 2 | 30 ] :  train Loss: 0.9183 Acc: 0.6734 val Loss: 0.8694 Acc: 0.6937
+Saving the current best model. Previous best loss = 0.8694440551757813 Current best loss = 0.7324900146484375
+[ Epochs 3 | 30 ] :  train Loss: 0.7622 Acc: 0.7323 val Loss: 0.7325 Acc: 0.7507
+[ Epochs 4 | 30 ] :  train Loss: 0.6679 Acc: 0.7687 val Loss: 0.7510 Acc: 0.7506
+Saving the current best model. Previous best loss = 0.7324900146484375 Current best loss = 0.6934735887527466
+[ Epochs 5 | 30 ] :  train Loss: 0.6042 Acc: 0.7909 val Loss: 0.6935 Acc: 0.7667
+Saving the current best model. Previous best loss = 0.6934735887527466 Current best loss = 0.5500321719169616
+[ Epochs 6 | 30 ] :  train Loss: 0.5759 Acc: 0.8025 val Loss: 0.5500 Acc: 0.8100
+[ Epochs 7 | 30 ] :  train Loss: 0.5058 Acc: 0.8260 val Loss: 0.5886 Acc: 0.8025
+Saving the current best model. Previous best loss = 0.5500321719169616 Current best loss = 0.4750640522003174
+[ Epochs 8 | 30 ] :  train Loss: 0.4754 Acc: 0.8354 val Loss: 0.4751 Acc: 0.8378
+Saving the current best model. Previous best loss = 0.4750640522003174 Current best loss = 0.4433439174413681
+[ Epochs 9 | 30 ] :  train Loss: 0.4291 Acc: 0.8529 val Loss: 0.4433 Acc: 0.8543
+[ Epochs 10 | 30 ] :  train Loss: 0.4132 Acc: 0.8589 val Loss: 0.4461 Acc: 0.8484
+Saving the current best model. Previous best loss = 0.4433439174413681 Current best loss = 0.42577118742465975
+[ Epochs 11 | 30 ] :  train Loss: 0.3746 Acc: 0.8703 val Loss: 0.4258 Acc: 0.8536
+Saving the current best model. Previous best loss = 0.42577118742465975 Current best loss = 0.3846340497493744
+[ Epochs 12 | 30 ] :  train Loss: 0.4040 Acc: 0.8609 val Loss: 0.3846 Acc: 0.8707
+[ Epochs 13 | 30 ] :  train Loss: 0.3265 Acc: 0.8866 val Loss: 0.3959 Acc: 0.8687
+Saving the current best model. Previous best loss = 0.3846340497493744 Current best loss = 0.37729734847545626
+[ Epochs 14 | 30 ] :  train Loss: 0.3097 Acc: 0.8935 val Loss: 0.3773 Acc: 0.8684
+[ Epochs 15 | 30 ] :  train Loss: 0.2936 Acc: 0.9000 val Loss: 0.3861 Acc: 0.8738
+[ Epochs 16 | 30 ] :  train Loss: 0.3973 Acc: 0.8677 val Loss: 0.5247 Acc: 0.8194
+Saving the current best model. Previous best loss = 0.37729734847545626 Current best loss = 0.34903584747314453
+[ Epochs 17 | 30 ] :  train Loss: 0.3296 Acc: 0.8857 val Loss: 0.3490 Acc: 0.8833
+Saving the current best model. Previous best loss = 0.34903584747314453 Current best loss = 0.336173104929924
+[ Epochs 18 | 30 ] :  train Loss: 0.2536 Acc: 0.9127 val Loss: 0.3362 Acc: 0.8892
+Saving the current best model. Previous best loss = 0.336173104929924 Current best loss = 0.3336579342842102
+[ Epochs 19 | 30 ] :  train Loss: 0.2409 Acc: 0.9166 val Loss: 0.3337 Acc: 0.8880
+[ Epochs 20 | 30 ] :  train Loss: 0.2345 Acc: 0.9168 val Loss: 0.3355 Acc: 0.8915
+Saving the current best model. Previous best loss = 0.3336579342842102 Current best loss = 0.3069953619480133
+[ Epochs 21 | 30 ] :  train Loss: 0.2566 Acc: 0.9122 val Loss: 0.3070 Acc: 0.8982
+[ Epochs 22 | 30 ] :  train Loss: 0.2110 Acc: 0.9260 val Loss: 0.3335 Acc: 0.8914
+[ Epochs 23 | 30 ] :  train Loss: 0.1998 Acc: 0.9292 val Loss: 0.3267 Acc: 0.8975
+Saving the current best model. Previous best loss = 0.3069953619480133 Current best loss = 0.2959632385611534
+[ Epochs 24 | 30 ] :  train Loss: 0.1881 Acc: 0.9337 val Loss: 0.2960 Acc: 0.9037
+[ Epochs 25 | 30 ] :  train Loss: 0.2140 Acc: 0.9257 val Loss: 0.3182 Acc: 0.9007
+[ Epochs 26 | 30 ] :  train Loss: 0.1725 Acc: 0.9389 val Loss: 0.3073 Acc: 0.9035
+[ Epochs 27 | 30 ] :  train Loss: 0.1675 Acc: 0.9418 val Loss: 0.3033 Acc: 0.9082
+[ Epochs 28 | 30 ] :  train Loss: 0.1540 Acc: 0.9456 val Loss: 0.3256 Acc: 0.9030
+[ Epochs 29 | 30 ] :  train Loss: 0.1658 Acc: 0.9431 val Loss: 0.3208 Acc: 0.9036
