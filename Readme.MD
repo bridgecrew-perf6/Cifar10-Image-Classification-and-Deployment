@@ -39,13 +39,17 @@ python train_note.py
 
 ## For Inference
 
- we need Cifar-10 data for inference. 10 sample image data is present in the data folder
+download the weights from drive link provided above and paste it in src/saved_weights (If you want to infer before training the model).
+
+we need Cifar-10 data for inference. 10 sample image data is present in the data folder
 
 
 Run InferenceNotebook.ipynb from jupyter notebook
 
 
 ## Model Serving on Flask (Deployment)
+
+download the weights from drive link provided above and paste it in src/saved_weights (If you want to infer before training the model).
 
 For Serving this model as a website. Execute the below code
 
