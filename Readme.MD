@@ -22,6 +22,7 @@ Download the saved_weights file from the drive link and paste it in src/saved_we
 #install the requirements
 
 cd Cifar10-Image-Classification-and-Deployment
+
 pip install -r requirements.txt 
 
 
@@ -32,6 +33,7 @@ This cifar10 model can be trained in GoogleNet, DenseNet, Resnet50.
 open the file train_note.py and select any one then train the model by executing the below commad line....
 
 cd Cifar10-Image-Classification-and-Deployment
+
 python train_note.py 
 
 
