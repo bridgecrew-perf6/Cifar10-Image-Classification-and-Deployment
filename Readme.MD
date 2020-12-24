@@ -1,40 +1,30 @@
-Saved_weights drive link -->  https://drive.google.com/drive/folders/1hmhy9_7etJqpmr8AxG3O0tYYhsc2rOGg?usp=sharing
+Saved_weights drive link --> https://drive.google.com/drive/folders/1hmhy9_7etJqpmr8AxG3O0tYYhsc2rOGg?usp=sharing
 
-## Setting up the Environment
+Setting up the Environment
+To setup the environment
 
-To setup the environment 
+#install the virtualenv: python -m pip install -U virtualenv
 
-python -m pip install -U virtualenv # install the virtualenv
-virtualenv -p python dev_env # creating an environment
-source dev_env/bin/activate # activate environment
-git clone https://github.com/entiretydotai/Image-Classification-and-Deployment #clone the repo
-Download the saved_file from the drive link and paste it in src/saved_weights
-cd Image-Classification-and-Deployment
-pip install -r requirements.txt # install the requirements
+#creating an environment: virtualenv -p python dev_env
 
+#activate environment: source dev_env/bin/activate
 
+#clone the repo: git clone https://github.com/jamesajeeth/Cifar10-Image-Classification-and-Deployment/
 
-## For Training
+#save the saved_weights: Download the saved_file from the drive link and paste it in src/saved_weights cd Cifar10-Image-Classification-and-Deployment pip install -r requirements.txt # install the requirements
 
-This cifar10 model can be trained in GoogleNet, DenseNet, Resnet50.
-open the file train_note.py and select any one then train the model by executing the below commad line....
+For Training
+This cifar10 model can be trained in GoogleNet, DenseNet, Resnet50. open the file train_note.py and select any one then train the model by executing the below commad line....
 
-cd Image-Classification-and-Deployment
-python train_note.py 
+cd Cifar10-Image-Classification-and-Deployment python train_note.py
 
-
-## For Inference
-
- we need Cifar-10 data for inference. 10 sample image data is present in the data folder
-
+For Inference
+we need Cifar-10 data for inference. 10 sample image data is present in the data folder
 
 Run InferenceNotebook.ipynb from jupyter notebook
 
-
-## Model Serving on Flask (Deployment)
-
+Model Serving on Flask (Deployment)
 For Serving this model as a website. Execute the below code
-
 
 python flask_api/app.py
 
