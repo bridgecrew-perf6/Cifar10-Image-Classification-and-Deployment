@@ -18,8 +18,11 @@ git clone https://github.com/jamesajeeth/Cifar10-Image-Classification-and-Deploy
 
 #save the saved_weights: 
 Download the saved_weights file from the drive link and paste it in src/saved_weights
+
+#install the requirements
+
 cd Cifar10-Image-Classification-and-Deployment
-pip install -r requirements.txt # install the requirements
+pip install -r requirements.txt 
 
 
 
